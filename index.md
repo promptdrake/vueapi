@@ -5,9 +5,6 @@ layout: home
 hero:
   name: "Musanto Api Bot"
   text: "Rest Api Bot"
-  image:
-    src: /logo.png
-    alt: anu
   tagline: Api Yang Dapat membuat fitur untuk kebutuhan bot discord atau whatsapp mu
   actions:
     - theme: brand
